@@ -7,7 +7,7 @@ Shuaicheng Zhang (zshuai8)
 <Student 2 Information>
 Tianchen Peng (ptian94)
 
-How to execute the shell
+Invocation
 ./esh
 This shell supports buildin commands with implementation of job controls, 
 foreground, background, kill stop
