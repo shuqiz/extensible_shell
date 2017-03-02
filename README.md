@@ -24,11 +24,17 @@ Description of Base Functionality
 ---------------------------------
 
 jobs: show current running or stopped jobs with their jid and status
+
 fg [jid]: bring the job of jid from background(running / stopped) to foreground and continue runnning
+
 bd [jid]: bring a job of jid to background and continue it in the background
+
 kill [jid]: kill a job of jid
+
 stop [jid]: stop a job of jid
+
 \ˆC: terminate the foreground job
+
 \ˆZ: stop the foreground job
 
 Description of Extended Functionality
