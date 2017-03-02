@@ -42,8 +42,7 @@ Description of Extended Functionality
 
 List of Plugins Implemented
 
-This shell supports I/O redirection, pipes, exclusive access >, syntax is exactly the same
-as the regular shell.
+This shell supports I/O redirection, pipes, exclusive access >, syntax is exactly the same as the regular shell.
 ---------------------------
 Plugin 1:
 bcd(Biggest-common-divisor)
